@@ -1,1 +1,5 @@
-# clear-leetcode-solutions
+# Leetcode Solutions
+
+## Techniques 
+
+1. [Fast & Slow Pointers](https://github.com/welsper-yang/clear-leetcode-solutions/fast-slow-pointers)
