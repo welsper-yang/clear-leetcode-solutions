@@ -2,4 +2,4 @@
 
 ## Techniques 
 
-1. [Fast & Slow Pointers](https://github.com/welsper-yang/clear-leetcode-solutions/fast-slow-pointers)
+1. [Fast & Slow Pointers](https://github.com/welsper-yang/clear-leetcode-solutions/tree/main/fast-slow-pointers)
